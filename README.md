@@ -27,11 +27,26 @@ We have also used
 
 ## Data
 The project involved extensive data collection over six months. 
-* The links to the files and APIs used are in the file 'List_DataSources.xlsx' in this repository
+* 'List_DataSources.xlsx' in this repository - The links to all the files and APIs used. 
 * The master file built on some of the data sources above is here:
 * The structure of the master file is in the file 'TFI Master File_Fields.xlsx'
-* Sample data for the running the code
+* Sample data for the running the code: 
 
 If one is interested in methodology only, the scripts can be run with the sample files.
 If one is interesed in re-building the "master file", than a full extraction & joining of the data should be performed according to the scheme '
+
+## Citing
+
+[![DOI](https://zenodo.org/badge/...)](https://zenodo.org/...)
+
+```bibtex
+@software{Access_Banking,
+  author = {{Andra Sonea}},
+  title = {\texttt{TFI\_AccessToBanking}: Exploratory Spatial Analysis of Access to Physical and Digital Banking Channels},
+  url = {https://github.com/andrasonea/TFI_AccessToBanking},
+  version = {1.0},
+  date = {2019-09-04},
+}
+```
+
 
