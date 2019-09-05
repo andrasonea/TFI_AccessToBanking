@@ -27,15 +27,14 @@ We have also used
 
 ## Data
 The project involved extensive data collection over six months. 
-* `List_DataSources.xlsx` in this repository - The links to all the files and APIs used. 
-* The master file built on some of the data sources above is here:
-* The structure of the master file is in the file `TFI Master File_Fields.xlsx`
-* Sample data for the running the code: 
+* `List_DataSources.xlsx` - contains informaiton and links to all the files and APIs used.
+* `TFI Master File_Fields.xlsx` - contains the structure of the "Master file" which was used for the analysis and which was built based on the data sources above.
 
-- If one is interested in methodology only, the scripts can be run with the sample files.
-- If one is interesed in re-building the "master file", than a full extraction & joining of the data should be performed according to the scheme below:
+* The master file built on some of the data sources above is here:
 
 <img src="" width="500">
+
+* If you want to re-build the file based on new data extractions, you might obtain slightly different distances as banking branches and ATMs are being closed in the meantime. The distances calculated in the Master file used for this project are based on March 2019 data extractions. For a full data extraction & joining of the data use the scheme below:
 
 ## Citing
 
