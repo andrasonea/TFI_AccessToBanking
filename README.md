@@ -8,7 +8,8 @@ Authors: Andra Sonea, Weisi Guo, Stephen Jarvis
 ### Requirements
 The project was developed in Jan-July 2019.
 
-We used `Python 3.6` and the following libraries:
+We used `Python 3.6`. The complete python stack is in file `Stack_Python_GIS041.txt`
+The most important libraries were:
 * numpy
 * pandas
 * geopandas 0.4.1
@@ -17,9 +18,8 @@ We used `Python 3.6` and the following libraries:
 * matplotlib
 * contextily
 * json
-* http.client
-* gzip
 * requests
+
 
 We have also used 
 * `QGIS 3.4 Madeira` (Distance Matrix)
