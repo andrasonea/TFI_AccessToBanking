@@ -32,13 +32,11 @@ The project involved extensive data collection over six months.
 
 * The master file built on some of the data sources above is here:
 
-<img src="" width="500">
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3417103.svg)](https://doi.org/10.5281/zenodo.3417103)
 
 * If you want to re-build the file based on new data extractions, you might obtain slightly different distances as banking branches and ATMs are being closed in the meantime. The distances calculated in the Master file used for this project are based on March 2019 data extractions. For a full data extraction & joining of the data use the scheme below:
 
 ## Citing
-
-[![DOI](https://zenodo.org/badge/...)](https://zenodo.org/...)
 
 ```bibtex
 @software{Access_Banking,
